@@ -4,7 +4,7 @@
 body{
     background-color: white;
     max-width: 100%;
-    background-image: url(/images/bg-header-desktop.png);
+    background-image: url(images/bg-header-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 18px;
