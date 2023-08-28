@@ -6,7 +6,7 @@ body{
     max-width: 100%;
     background-image: url(images/bg-header-desktop.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     font-size: 18px;
     font-family: 'Bai Jamjuree', sans-serif;
     color: rgba(0, 0, 0, 0.363);
@@ -82,7 +82,7 @@ button:hover{
 }
 .trak-img img{
     width: 100%;
-    min-width: 365px;
+    min-width: 300px;
 }
 .trak-contents{
     width: 25%;
@@ -211,6 +211,8 @@ button:hover{
     span button{
      width: 100%;
 }
+/* ------------------------ho ------------------------------------*/
+
 /***************** trak ********************/
 .trak-container{
     justify-content: center;
